@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0152-maximum-product-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
