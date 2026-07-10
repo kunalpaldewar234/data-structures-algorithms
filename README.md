@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0152-maximum-product-subarray) |
+| [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0724-find-pivot-index) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
