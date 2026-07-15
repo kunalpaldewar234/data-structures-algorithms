@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0152-maximum-product-subarray) |
+| [0503-next-greater-element-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -104,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
