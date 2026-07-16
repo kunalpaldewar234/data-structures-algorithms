@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
