@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0739-daily-temperatures) |
 ## Number Theory
