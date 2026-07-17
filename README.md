@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1189-maximum-number-of-balloons) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
