@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0152-maximum-product-subarray) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
