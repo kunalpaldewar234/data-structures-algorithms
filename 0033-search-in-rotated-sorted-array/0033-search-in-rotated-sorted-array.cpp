@@ -1,25 +1,27 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int tar) {
-        int st  = 0;
-        int end = nums.size()-1;
+    int search(vector<int>& nums, int target) {
+        int n = nums.size();
+        int low = 0;
+        int high = n-1;
 
-        while(st<= end){
-            int mid = st + (end-st)/2;
-            if(nums[mid] == tar){
-                return  mid;
+        while(low<= high){
+            int guess = (low+high)/2;
+            if(nums[guess] == target){
+                return guess;
             }
-            if(nums[st] <= nums[mid]) {
-                if(nums[st] <= tar && tar <= nums[mid]){
-                    end = mid - 1;
+
+            if(nums[low] <= nums[guess]){       // left sorted array;
+                if(nums[low] <= target && target < nums[guess]){
+                    high = guess-1;
                 }else{
-                    st = mid + 1;
+                    low = guess+1;
                 }
-            }else{
-                if(nums[mid] <= tar && tar<= nums[end] ){
-                    st = mid +1;
+            }else{ // Right half is sorted
+                if(nums[guess] < target && target <= nums[high]){
+                    low = guess+1;
                 }else{
-                    end = mid -1;
+                    high = guess-1;
                 }
             }
         }
