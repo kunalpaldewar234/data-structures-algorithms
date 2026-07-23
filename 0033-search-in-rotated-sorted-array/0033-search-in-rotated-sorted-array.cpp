@@ -3,28 +3,50 @@ public:
     int search(vector<int>& nums, int target) {
         int n = nums.size();
         int low = 0;
-        int high = n-1;
+        int high = n - 1;
 
-        while(low<= high){
-            int guess = (low+high)/2;
-            if(nums[guess] == target){
+        while (low <= high) {
+            int guess = (low + high) / 2;
+
+            if (nums[guess] == target) {
                 return guess;
             }
 
-            if(nums[low] <= nums[guess]){       // left sorted array;
-                if(nums[low] <= target && target < nums[guess]){
-                    high = guess-1;
-                }else{
-                    low = guess+1;
+            // Part 1 : guess is in left sorted part
+            if (nums[guess] >= nums[n - 1]) {
+
+                if (nums[guess] < target) {
+                    // right jana hai
+                    low = guess + 1;
+                } else {
+                    if (target >= nums[0]) {
+                        // left jana hai
+                        high = guess - 1;
+                    } else {
+                        // right jana hai
+                        low = guess + 1;
+                    }
                 }
-            }else{ // Right half is sorted
-                if(nums[guess] < target && target <= nums[high]){
-                    low = guess+1;
-                }else{
-                    high = guess-1;
+            }
+
+            // Part 2 : guess is in right sorted part
+            else {
+
+                if (nums[guess] > target) {
+                    // left jana hai
+                    high = guess - 1;
+                } else {
+                    if (target <= nums[n - 1]) {
+                        // right jana hai
+                        low = guess + 1;
+                    } else {
+                        // left jana hai
+                        high = guess - 1;
+                    }
                 }
             }
         }
+
         return -1;
     }
 };
