@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0344-reverse-string) |
+| [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
 | [0680-valid-palindrome-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0986-interval-list-intersections) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
 | [0503-next-greater-element-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0525-contiguous-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0278-first-bad-version) |
+## Sorting
+|  |
+| ------- |
+| [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
