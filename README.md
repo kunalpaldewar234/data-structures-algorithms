@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0002-add-two-numbers) |
 | [0441-arranging-coins](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sweep Line
 |  |
