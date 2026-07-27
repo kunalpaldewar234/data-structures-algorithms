@@ -1,49 +1,37 @@
 class Solution {
 public:
-    int countLessEqual(vector<vector<int>>& matrix, int mid) {
-        int row = matrix.size();
-        int col = matrix[0].size();
-
+    int fun(vector<vector<int>>& matrix,int guess){
+        int n = matrix.size();
+        int m = matrix[0].size();
+        int row = n-1;
+        int col = 0;
         int count = 0;
-
-        for (int i = 0; i < row; i++) {
-            int low = 0;
-            int high = col - 1;
-
-            while (low <= high) {
-                int guess = low + (high - low) / 2;
-
-                if (matrix[i][guess] <= mid) {
-                    low = guess + 1;
-                } else {
-                    high = guess - 1;
-                }
+        while(row >= 0 && col < m){
+            if(matrix[row][col] <= guess){
+                count += row+1;
+                col++;
+            }else{
+                row--;
             }
-
-            count += low;
         }
-
         return count;
     }
-
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        int row = matrix.size();
-        int col = matrix[0].size();
-
+        int res = -1;
+        int n = matrix.size();        
+        int m = matrix[0].size();
         int low = matrix[0][0];
-        int high = matrix[row - 1][col - 1];
-
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-
-            if (countLessEqual(matrix, mid) < k) {
-                low = mid + 1;
-            } else {
-                high = mid;
+        int high = matrix[n-1][m-1];
+        while(low <= high){
+            int guess = low + (high-low)/2;
+            if(fun(matrix,guess) >= k){
+                res = guess;
+                high = guess-1;
+            }else{
+                low = guess+1;
             }
         }
-
-        return low;
+        return res;
     }
 };
 
