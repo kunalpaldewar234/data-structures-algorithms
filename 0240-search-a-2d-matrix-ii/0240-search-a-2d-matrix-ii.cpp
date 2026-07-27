@@ -1,26 +1,21 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        
-        int row = matrix.size();
-        int col = matrix[0].size();
-        
-        for(int i=0;i<row;i++){
-            int low = 0;
-            int high = col-1;
-            while(low <= high){
-            int guess = low + (high-low)/2;
-           
-            if(matrix[i][guess] == target){
+        int n = matrix.size();
+        int m = matrix[0].size();
+
+        int row = n-1;
+        int col = 0;
+
+        while(row >= 0 && col < m){
+            if(matrix[row][col] == target){
                 return true;
-            }else if(matrix[i][guess] > target){
-                high = guess-1;
+            }else if(matrix[row][col] > target){
+                row--;
             }else{
-                low = guess+1;
+                col++;
             }
         }
-        }
-        
         return false;
     }
 };
