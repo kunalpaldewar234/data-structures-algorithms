@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0344-reverse-string) |
 | [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
+| [0658-find-k-closest-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0986-interval-list-intersections) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0739-daily-temperatures) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
+| [0658-find-k-closest-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
+| [0658-find-k-closest-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -235,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
