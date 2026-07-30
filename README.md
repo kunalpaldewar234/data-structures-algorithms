@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0767-reorganize-string) |
 ## Array
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0525-contiguous-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0973-k-closest-points-to-origin) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0973-k-closest-points-to-origin) |
