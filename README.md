@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0509-fibonacci-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
