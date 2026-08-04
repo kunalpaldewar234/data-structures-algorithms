@@ -294,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
