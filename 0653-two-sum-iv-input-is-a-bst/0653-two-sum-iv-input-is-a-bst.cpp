@@ -11,39 +11,66 @@
  */
 class Solution {
 public:
-#define Node TreeNode
-#define null nullptr
+#define Node TreeNode 
 #define data val
-void inorder(Node* root,vector<int>&res){
-    if(root == null){
-        return;
+#define null nullptr
+stack<Node*>asc;
+stack<Node*>desc;
+Node* getsmall(){
+    if(asc.empty()){
+        return null;
     }
-    inorder(root->left,res);
-    res.push_back(root->data);
-    inorder(root->right,res);
+    Node* small = asc.top();
+    asc.pop();
+    Node* rightchild = small->right;
+    while(rightchild){
+        asc.push(rightchild);
+        rightchild =  rightchild->left;     // sare left element push karo
+    }
+    return small;
+}
+Node* getbig(){
+    if(desc.empty()){
+        return null;
+    }
+    Node* big = desc.top();
+    desc.pop();
+    Node* leftchild =big->left;
+    while(leftchild){
+        desc.push(leftchild);
+        leftchild = leftchild->right;
+    }
+    return big;
+}
 
-}
-bool fun(vector<int>&res,int k){
-    int n = res.size();
-    int low = 0;
-    int high = n-1;
-    while(low < high){
-        int sum = res[low]+res[high];
-        if(sum == k){
-            return true;
-        }else if(sum > k){
-            high--;
-        }else{
-            low++;
-        }
-    }
-    return false;
-}
     bool findTarget(TreeNode* root, int k) {
-        vector<int>res;
-        inorder(root,res);
-        return fun(res,k);
-
+        if(root == null){
+            return false;
+        }
+        Node*t = root;
+        while(t){
+            asc.push(t);
+            t = t->left;
+        }
+        t = root;
+        while(t){
+            desc.push(t);
+            t = t->right;
+        }
+        Node* i = getsmall();
+        Node* j = getbig();
+        while((i!= null && j!= null) && i != j && (i->data <= j->data)){
+            int sum = i->data +j->data;
+            if(sum == k){
+                return true;
+            }else if(sum > k){
+                j = getbig();
+            }else{
+                i = getsmall();
+            }
+        }
+        return false;
+        
     }
 };
 
