@@ -18,18 +18,10 @@ int fun(Node* root){
     if(root == null){
         return 0;
     }
-    if(root->left == null && root->right == null){
-        return 1;
-    }
-    if(root->left == null){
-        return 1 + fun(root->right);
+    int left = fun(root->left);
+    int right = fun(root->right);
 
-    }
-    if(root->right == null){
-        return 1+ fun(root->left);
-    }
-
-    return 1 +max(fun(root->left),fun(root->right));
+    return 1+ max(left,right);
 }
     int maxDepth(TreeNode* root) {
      return fun(root);
