@@ -1,0 +1,41 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+#define Node TreeNode
+#define null nullptr
+#define data val
+int fun(Node* root){
+    if(root == null){
+        return 0;
+    }
+    if(root->left == null && root->right == null){
+        return 1;
+    }
+    if(root->left == null){
+        return 1 + fun(root->right);
+
+    }
+    if(root->right == null){
+        return 1+ fun(root->left);
+    }
+
+    return 1 +max(fun(root->left),fun(root->right));
+}
+    int maxDepth(TreeNode* root) {
+     return fun(root);
+    }
+};
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
