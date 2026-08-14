@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
