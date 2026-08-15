@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0344-reverse-string) |
 | [0475-heaters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0475-heaters) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0523-continuous-subarray-sum) |
