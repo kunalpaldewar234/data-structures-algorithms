@@ -1,26 +1,25 @@
 class Solution {
 public:
-    int atmost(vector<int>nums,int k ){
-        int low =0;
-        int high =0;
-        unordered_map<int,int>f;
-        int count =0;
-
-        while(high <nums.size()){
-            f[nums[high]]++;
-            while(f.size()>k){
-                f[nums[low]]--;
-                if(f[nums[low]]==0){
-                    f.erase(nums[low]);
-                }
-                low++;
+int atmost(vector<int>&nums,int k){
+    int low = 0;
+    int high = 0;
+    int count =0;
+    unordered_map<int,int>f;
+    
+    while(high < nums.size()){
+        f[nums[high]]++;
+        while(f.size() > k){
+            f[nums[low]]--;
+            if(f[nums[low]] == 0){
+                f.erase(nums[low]);
             }
-
-            count = count + (high-low+1);
-            high++;
+            low++;
         }
-        return count;
+        count = count+(high-low+1);
+        high++;
     }
+    return count;
+}
     int subarraysWithKDistinct(vector<int>& nums, int k) {
         return atmost(nums,k)-atmost(nums,k-1);
     }
