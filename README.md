@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2063-vowels-of-all-substrings](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2063-vowels-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2063-vowels-of-all-substrings](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2063-vowels-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [2029-stone-game-ix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2029-stone-game-ix) |
+| [2063-vowels-of-all-substrings](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2063-vowels-of-all-substrings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sweep Line
 |  |
@@ -519,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2261-k-divisible-elements-subarrays) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
