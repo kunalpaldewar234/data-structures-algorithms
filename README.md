@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0767-reorganize-string) |
+| [1386-cinema-seat-allocation](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2029-stone-game-ix) |
 ## Array
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1386-cinema-seat-allocation](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1189-maximum-number-of-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2261-k-divisible-elements-subarrays](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2261-k-divisible-elements-subarrays) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0078-subsets) |
+| [1386-cinema-seat-allocation](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
