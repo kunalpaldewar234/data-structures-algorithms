@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [2029-stone-game-ix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2063-vowels-of-all-substrings) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sweep Line
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
@@ -532,4 +537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2063-vowels-of-all-substrings) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
