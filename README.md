@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2063-vowels-of-all-substrings](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2063-vowels-of-all-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
