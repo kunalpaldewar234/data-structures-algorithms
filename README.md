@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
