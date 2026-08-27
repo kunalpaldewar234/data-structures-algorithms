@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2261-k-divisible-elements-subarrays) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
