@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2261-k-divisible-elements-subarrays) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2574-left-and-right-sum-differences) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
 |  |
 | ------- |
