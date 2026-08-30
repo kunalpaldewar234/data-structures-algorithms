@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0994-rotting-oranges) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
 |  |
@@ -561,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
