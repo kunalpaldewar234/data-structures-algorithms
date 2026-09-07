@@ -1,18 +1,17 @@
 class Solution {
   public:
-    void dfs(vector<vector<int>>&adj,int node,vector<int>&res,vector<bool>&vis){
-        res.push_back(node);
-        vis[node]=1;
-        
-        for(int i=0;i<adj[node].size();i++){
-            int neigh = adj[node][i];
-            if(vis[neigh] == 0){
-                dfs(adj,neigh,res,vis);
-            
-            }
-        }
-        return;
-    }
+  void dfs(vector<vector<int>>&adj,int node,vector<int>&res,vector<bool>&vis){
+      res.push_back(node);
+      vis[node] = 1;
+      
+      for(int i =0;i<adj[node].size();i++){
+          int neigh = adj[node][i];
+          if(vis[neigh] == 0){
+              dfs(adj,neigh,res,vis);
+          }
+      }
+      return;
+  }
     vector<int> dfs(vector<vector<int>>& adj) {
         // Code here
         int n = adj.size();
