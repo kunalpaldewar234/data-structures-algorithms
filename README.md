@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0994-rotting-oranges) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -603,4 +607,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
