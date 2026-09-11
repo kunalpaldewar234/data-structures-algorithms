@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Interactive
 |  |
 | ------- |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2261-k-divisible-elements-subarrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
