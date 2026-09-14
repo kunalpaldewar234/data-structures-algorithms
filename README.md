@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
@@ -628,4 +632,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
