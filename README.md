@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2029-stone-game-ix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
 ## Geometry
 |  |
 | ------- |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0841-keys-and-rooms) |
+| [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -636,8 +639,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
