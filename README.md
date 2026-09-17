@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2029-stone-game-ix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
 |  |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Geometry
 |  |
 | ------- |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0841-keys-and-rooms) |
+| [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -525,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
@@ -566,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
@@ -645,4 +652,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
