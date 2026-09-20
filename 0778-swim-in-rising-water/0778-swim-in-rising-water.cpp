@@ -15,7 +15,7 @@ public:
             vector<int>t(n,INT_MAX);
             res[i] = t;
         }
-         priority_queue<pair<int,pair<int,int>>,
+        priority_queue<pair<int,pair<int,int>>,
                     vector<pair<int,pair<int,int>>>,
                     greater<pair<int,pair<int,int>>>>pq;
         res[0][0] = grid[0][0];
