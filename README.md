@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2029-stone-game-ix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2029-stone-game-ix) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -668,4 +671,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1631-path-with-minimum-effort) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
