@@ -1,25 +1,25 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<int>dest(n,1e8);
-        dest[src] = 0;
-        for(int i=0;i<k+1;i++){
-            vector<int>temp = dest;
+        vector<int>res(n,1e8);
+        res[src] = 0;
+        for(int i=0;i<=k;i++){
+            vector<int>tmp = res;
             for(int j=0;j<flights.size();j++){
                 int s = flights[j][0];
                 int d = flights[j][1];
-                int wt = flights[j][2];
+                int w = flights[j][2];
 
-                if(temp[s] != 1e8 && temp[d] > dest[s]+wt){
-                    temp[d] = dest[s]+wt;
+                if(res[s] != 1e8 && tmp[d] > res[s]+w){
+                    tmp[d] = res[s]+w;
                 }
             }
-            dest = temp;
+            res = tmp;
         }
-        if(dest[dst] == 1e8){
+        if(res[dst] == 1e8){
             return -1;
         }else{
-            return dest[dst];
+            return res[dst];
         }
     }
 };
