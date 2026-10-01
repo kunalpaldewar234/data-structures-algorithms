@@ -1,22 +1,22 @@
 class Solution {
 public:
-    vector<int> dp;
-
-    int solve(int n) {
-        
-        if (n == 1 || n == 2) return n;
-
-        if (dp[n] != -1)
-            return dp[n];
-
-        return dp[n] = solve(n - 1) + solve(n - 2);
+    unordered_map<int,int>dp;
+    int fun(int i,int n){
+        if(i == n){
+            return 1;
+        }
+        if(i > n){
+            return 0;
+        }
+        if(dp.find(i) != dp.end()){
+            return dp[i];
+        }
+        int ans1 = fun(i+1,n);
+        int ans2 = fun(i+2,n);
+        dp[i] = ans1+ans2;
+        return ans1+ans2;
     }
     int climbStairs(int n) {
-        dp.assign(n+1,-1);
-        return solve(n);
+        return fun(0,n);
     }
 };
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
