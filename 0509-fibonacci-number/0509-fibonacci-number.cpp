@@ -1,13 +1,15 @@
 class Solution {
 public:
+unordered_map<int,int>dp;
     int fib(int n) {
         if(n == 0) return 0;
         if(n == 1) return 1;
+        if(dp.find(n) != dp.end()){
+            return dp[n];
+        }
 
-        return fib(n-1)+fib(n-2);
+        int ans = fib(n-1)+fib(n-2);
+        dp[n] = ans;
+        return ans;
     }
 };
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
