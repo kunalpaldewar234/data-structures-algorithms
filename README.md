@@ -707,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0577-employee-bonus) |
