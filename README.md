@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0344-reverse-string) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0115-distinct-subsequences) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0234-palindrome-linked-list) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
