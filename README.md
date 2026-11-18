@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0115-distinct-subsequences) |
+| [0290-word-pattern](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0383-ransom-note) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0290-word-pattern](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0409-longest-palindrome) |
