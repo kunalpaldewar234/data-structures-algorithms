@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/2063-vowels-of-all-substrings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3870-count-commas-in-range) |
@@ -736,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/0627-swap-sex-of-employees) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/kunalpaldewar234/data-structures-algorithms/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
